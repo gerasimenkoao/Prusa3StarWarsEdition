@@ -15,6 +15,8 @@ Drawings 4 laser cutting from 6mm plywood placed in /cad folder
 TIEFighter1x have size 482x520mm
 TIEFighter2x - two side with size 500x500mm
 All elements can be cutted from 500х1250 sheet of plywood (20x60inch)
+Inner size between sides is 470mm.
+The shelf is asymmetrical - motors and rods shifted to the right at 5mm - mount it carefully!
 
 Alsou 4 bulding frame needed next parts:
 
