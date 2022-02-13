@@ -18,7 +18,7 @@ All elements can be cutted from 500х1250 sheet of plywood (20x60inch)
 Inner size between sides is 470mm.
 The shelf is asymmetrical - motors and rods shifted to the right at 5mm - mount it carefully!
 
-Alsou 4 bulding frame needed next parts:
+Also 4 bulding frame needed next parts:
 
 Threaded rod M10, 50cm (4x) 
 Threaded rod M10, 44cm (2x)
@@ -45,9 +45,6 @@ steel 4.5mm BB ball from airgun - 2x (optional)
 1000mm 12V red led stripe connected to hotend heater line
 
 Any other&small parts same as in original Prisa i3
-
-At least one thing - i don't use glass&height tuning of hotbed - this make it twice lighter(and faster in galaxy ;-)
-Use blue painter's tape (3M for example) directly on MK2B heated bed.
 
 Building sequence shown in numbered photos (/photos folder)
 
